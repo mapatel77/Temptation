@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/temptation/static/css/main.89076df5.css",
+    "main.js": "/temptation/static/js/main.f015e7d6.js",
+    "static/js/787.3da6591a.chunk.js": "/temptation/static/js/787.3da6591a.chunk.js",
+    "static/media/food1.png": "/temptation/static/media/food1.cf22ea3785b35d4eea84.png",
+    "static/media/food5.jpeg": "/temptation/static/media/food5.47717fbc1b9f0e72382e.jpeg",
+    "static/media/lemon-dessert.webp": "/temptation/static/media/lemon-dessert.6af142378d3f539c7ecb.webp",
+    "static/media/bruschetta.jpeg": "/temptation/static/media/bruschetta.b0415dd9cd625aa27e44.jpeg",
+    "static/media/greek-salad.webp": "/temptation/static/media/greek-salad.0630522a827a5188a66d.webp",
+    "static/media/food4.webp": "/temptation/static/media/food4.aef154ce876c762e864c.webp",
+    "static/media/food2.jpeg": "/temptation/static/media/food2.0dcd90e2c8fd640454bf.jpeg",
+    "static/media/food3.jpeg": "/temptation/static/media/food3.90486b3529cd6d885d9a.jpeg",
+    "static/media/footer-logo.png": "/temptation/static/media/footer-logo.4470f9c9e815da98dbb3.png",
+    "static/media/nav-logo.png": "/temptation/static/media/nav-logo.f89ba834e43f4451ed52.png",
+    "index.html": "/temptation/index.html",
+    "main.89076df5.css.map": "/temptation/static/css/main.89076df5.css.map",
+    "main.f015e7d6.js.map": "/temptation/static/js/main.f015e7d6.js.map",
+    "787.3da6591a.chunk.js.map": "/temptation/static/js/787.3da6591a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89076df5.css",
+    "static/js/main.f015e7d6.js"
+  ]
+}
